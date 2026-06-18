@@ -70,15 +70,7 @@
 - ✅ Reduced defects 30% with automated testing pipelines
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
-
----
-
-## 📜 Certifications
-
-- 🟡 **AWS Certified Developer – Associate**
-- 🔵 **Oracle Certified Java SE 17 Developer**
-- 🟣 **Certified Kubernetes Application Developer (CKAD)**
+![C#](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
 
 ---
 
