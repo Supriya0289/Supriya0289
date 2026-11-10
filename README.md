@@ -20,8 +20,8 @@
 
 ## 📞 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhukya-supriya-7469251a9)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:supriyabhukya45@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhukyasupriya028@gmail.com)
 
 ---
 
